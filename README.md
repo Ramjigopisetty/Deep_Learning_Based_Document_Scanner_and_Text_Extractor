@@ -1,2 +1,6 @@
 # Sribe-AI---Doc-Scanner-and-Text-Extractor
-To enhance decision-making, we used Machine Learning Models that helps task prioritization and advanced automation.
+This project addresses the problem of document digitization by developing a 
+web-based application titled “Scribe AI – Doc Scanner and Text Extractor”. 
+The system is designed to automatically scan document images and extract 
+textual content using image processing and Optical Character Recognition 
+(OCR) techniques.
