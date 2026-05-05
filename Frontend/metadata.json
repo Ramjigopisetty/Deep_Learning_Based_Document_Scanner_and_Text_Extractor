@@ -1,5 +1,5 @@
 {
-  "name": "TEXT SCANNER – AI Powered Document Scanning & OCR System",
+  "name": "Deep Learning-Based Document Scanner and Text Extractor",
   "description": "An AI-powered document scanner that extracts text from printed and handwritten documents with simulated OCR processing and export capabilities.",
   "requestFramePermissions": ["camera"]
 }

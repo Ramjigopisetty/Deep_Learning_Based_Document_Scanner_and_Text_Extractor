@@ -34,7 +34,7 @@ app.add_middleware(
 
 @app.get("/")
 def home():
-    return {"message": "Text Scanner API Running"}
+    return {"message": "Deep Learning-Based Document Scanner and Text Extractor API Running"}
 
 
 @app.post("/scan")
